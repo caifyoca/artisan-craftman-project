@@ -8,7 +8,7 @@
 * **Craftsman or Artisan** :
 A **craftsman** is a person who practices a manual and traditional trade. They master specific techniques to manufacture, repair, or restore objects. Craftsmen are often recognized for their skill, creativity, and attention to detail.
 
-# Classes or entities definiotion
+# Classes or entities definition
 
 ### Enumerations
 
